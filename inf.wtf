@@ -1022,7 +1022,7 @@ local function getObjGen()
             Gui.Slot.Size = UDim2.new(1, 0, 0, 0)
             Gui.Slot.ZIndex = 120
             Gui.Slot.AutoButtonColor = false
-            Gui.Slot.Image = "rbxassetid://7890925834"
+            Gui.Slot.Image = "rbxassetid://16829032317"
             Gui.Slot.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Slot.ScaleType = Enum.ScaleType.Slice
             Gui.Slot.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1072,7 +1072,7 @@ local function getObjGen()
             Gui.Top.Size = UDim2.new(1, 0, 0, 0)
             Gui.Top.ZIndex = 120
             Gui.Top.AutoButtonColor = false
-            Gui.Top.Image = "http://www.roblox.com/asset/?id=8374820043"
+            Gui.Top.Image = "http://www.roblox.com/asset/?id=16829032317"
             Gui.Top.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Top.ScaleType = Enum.ScaleType.Slice
             Gui.Top.SliceCenter = Rect.new(512, 512, 512, 512)
